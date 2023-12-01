@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 1000vh;
+}
+
+*{
+    font-family: 'Inter';
+}
+
+@media only screen and (max-width: 375px) {
+
+header{
+    border: solid;
+    
+}
+
+ul{
+    display: flex;
+    padding-left: 10px;
+}
+
+.mobile-visibility{
+    display: none;
+}
+
+.material-symbols-outlined{
+    float: right;
+}
+
+#logo{
+    margin-right: 80%;
+    padding-left: -40px;
+    border: solid;
+}
+
+#section1>h1{
+
+    font-size: 48px;
+    line-height: 60px;
+    margin-left: 15px;
+}
+
+#section1>p{
+    font-size: 18px;
+    color: #525252;
+    line-height: 30px;
+    margin-left: 15px;
+}
+ 
+.rental-phone-img{
+
+    width: 360px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.email-address{
+    width: 230px;
+    height: 42px;
+    margin-left: 3%;
+    border-radius: 3px;
+    border: solid #525252 1px;
+    padding-left: 5px;
+    
+}
+
+.start-trading-btn{
+    color: white;
+    background-color: #244FDB;
+    font-size: 14px;
+    height: 44px;
+    border-radius: 3px;
+    width: 110px;
+    border: solid #244FDB 1px;
+}
+
+#section3>h1{
+    font-size: 32px;
+    line-height: 48px;
+    
+}
+
+#section3>p{
+    font-size: 18px;
+    color: #525252;
+    line-height: 32px;
+    
+}
+}
