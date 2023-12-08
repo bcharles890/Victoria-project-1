@@ -12,10 +12,10 @@ body{
     font-family: 'Inter';
 }
 
-@media only screen and (max-width: 375px) {
+
 
 header{
-    border: solid;
+    border-bottom: solid lightgray 1.5px ;
     
 }
 
@@ -55,6 +55,7 @@ ul{
 .rental-phone-img{
 
     width: 360px;
+    height: auto;
     margin-top: 40px;
     margin-left: 10px;
 }
@@ -82,6 +83,7 @@ ul{
 #section3>h1{
     font-size: 32px;
     line-height: 48px;
+    margin-left: 15px;
     
 }
 
@@ -89,6 +91,104 @@ ul{
     font-size: 18px;
     color: #525252;
     line-height: 32px;
+    margin-left: 15px;
     
 }
+
+#section4{
+    
+
+}
+
+.option-box-main{
+    width: 93%;
+    background-color: whitesmoke;
+    margin-left: 15px;
+    height: 194px;
+    display: block;
+    border-radius: 8px;
+    
+    
+}
+
+.option-box-main>h2{
+    font-size: 18px;
+    font-weight: 600px;
+    padding-left: 15px;
+    line-height: 32px;
+    margin-top: 26px;
+    
+
+}
+
+.option-box-main>p{
+    color: #525252;
+    font-size: 16px;
+    padding-left: 15px;
+    line-height: 24px;
+    
+    
+}
+
+
+
+.option-box-main>img{
+    margin-left: 15px;
+    background-color: #244FDB;
+    margin-top: 15px;
+    border: solid #244FDB 1px;
+    padding: 5px;
+    border-radius: 6px;
+    
+    
+
+}
+
+.option-box{
+    width: 93%;
+    background-color: whitesmoke;
+    margin-left: 15px;
+    height: 194px;
+    display: block;
+    border-radius: 8px;
+    margin-top: 36px;
+}
+
+
+.option-box>h2{
+    font-size: 18px;
+    font-weight: 600px;
+    padding-left: 15px;
+    line-height: 32px;
+    margin-top: 26px;
+    
+}
+
+.option-box>p{
+    color: #525252;
+    font-size: 16px;
+    padding-left: 15px;
+    line-height: 24px;  
+    
+}
+
+
+
+.option-box>img{
+    margin-left: 15px;
+    background-color: #244FDB;
+    margin-top: 15px;
+    border: solid #244FDB 1px;
+    padding: 5px;
+    border-radius: 6px;
+
+}
+
+
+
+
+
+@media only screen and (min-width: 767px) {
+
+
 }
