@@ -184,6 +184,26 @@ ul{
 
 }
 
+#section5>h1{
+    margin-left: 15px;
+    font-size: 32px;
+    line-height: 48px;
+    letter-spacing: -0.8px;
+    
+    
+
+}
+
+#section5>p{
+    font-size: 18px;
+    line-height: 32px;
+    margin-left: 15px;
+    color: #404040;
+    margin-top: -20px;
+    
+    
+}
+
 
 
 
