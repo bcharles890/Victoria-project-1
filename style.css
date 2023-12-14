@@ -250,8 +250,8 @@ ul{
     margin-left: 15px;
 }
 
-.home-card-stats>strong{
-    color: #101421;
+.home-card-stats>p>strong{
+    color: black;
     
 }
 
