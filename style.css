@@ -189,6 +189,7 @@ ul{
     font-size: 32px;
     line-height: 48px;
     letter-spacing: -0.8px;
+    margin-top: 70px;
     
     
 
@@ -203,6 +204,57 @@ ul{
     
     
 }
+
+#section6{
+
+}
+
+.home-card{
+    border: soli ;
+    margin-left: 14px;
+    width: 350px;
+    margin-bottom: 24px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    box-shadow: 0px 0px 5px 0px;
+    padding-bottom: 8px;
+    height: auto;
+}
+
+.home-card>h4{
+    line-height: 1px;
+    font-size: 18px;
+    padding-left: 10px;
+    
+    
+}
+
+.home-card-city{
+    margin-bottom: -10px;
+
+}
+
+.houston-img-1{
+    width: 350px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    
+}
+
+.home-card-stats{
+    margin-left: 15px;
+}
+
+.home-card-stats>p{
+    color: #525252;
+    margin-left: 15px;
+}
+
+.home-card-stats>strong{
+    color: #101421;
+    
+}
+
 
 
 
