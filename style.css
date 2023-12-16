@@ -318,6 +318,74 @@ nav>ul{
     margin-left: 9px;
 }
 
+#section8{
+
+}
+
+#section8>h3{
+
+    font-size: 32px;
+    line-height: 48px;
+    margin-left: 20px;
+    
+}
+
+#section8>p{
+font-size: 18px;
+line-height: 32px;
+margin-left: 20px;
+margin-top: -25px;
+color: #404040;
+
+
+}
+
+#section8>button{
+    font-size: 18px;
+    line-height: 32px;
+    border-bottom: solid lightgray 1px;
+    font-weight: bold;
+    color: black;
+}
+
+#section8>button>img{
+    float: right;
+}
+
+.accordion{
+    background-color: white;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover{
+    background-color: #ccc;
+}
+
+
+.panel{
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.2s ease-out;
+}
+
+#section8>a{
+    margin-left: 15px;
+    padding-top: 20px;
+    color: #244FDB;
+    font-weight: 600;
+    text-decoration: none;
+}
+
 
 
 
