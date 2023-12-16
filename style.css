@@ -5,7 +5,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    height: 1500vh;
+    height: 1800vh;
 }
 
 *{
@@ -378,12 +378,54 @@ color: #404040;
     transition: max-height 0.2s ease-out;
 }
 
+
+
 #section8>a{
     margin-left: 15px;
-    padding-top: 20px;
     color: #244FDB;
     font-weight: 600;
     text-decoration: none;
+    border: solid;
+}
+
+
+#section9{
+    background-color: whitesmoke;
+    height: 50vh;
+    margin-top: 20vh;
+    padding-top: 20px;
+}
+
+#section9>h3{
+    font-size: 32px;
+    line-height: 48px;
+    margin-left: 20px;
+    
+}
+
+#section9>p{
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: -25px;
+    margin-left: 20px;
+    
+}
+
+#section10{
+    
+}
+
+#section10>img{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#section10>p{
+    margin-left: 10px;
+    color: #A3A3A3;
+    font-size: 12px;
+    line-height: 19.5px;
+    
 }
 
 
