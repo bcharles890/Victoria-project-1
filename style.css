@@ -385,7 +385,9 @@ color: #404040;
     color: #244FDB;
     font-weight: 600;
     text-decoration: none;
+    height: 240px;
     border: solid;
+    
 }
 
 
@@ -459,7 +461,7 @@ color: #404040;
 
 
 
-@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 376px) and (max-width:767) {
 
-
+    
 }
